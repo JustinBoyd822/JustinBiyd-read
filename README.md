@@ -1,28 +1,38 @@
-Hey, I'm Justin Boyd
+👋 Hey, I'm Justin Boyd
 
-🎓 Junior CS Student @ Madonna University 2027
-🛡️ Aspiring Anything but web development| Full-Stack Dev | Storyteller  
-🇺🇸 Detroit-based | Open to internships for 2025
+🎓 Junior CS Student @ Madonna University (Class of 2027)  
+🛡️ Full-Stack Dev | Backend-Inclined | Storyteller  
+📍 Based in Detroit, MI | Open to 2025 Internship Opportunities
+
+🔧Tech Stack & Tools
+ -Databases 
+     QLite | MySQL
+ -Frameworks & Libraries 
+     Django | React | Node.js
+ - Languages 
+   Python | JavaScript | SQL | HTML | CSS
+        
+  Tools
+-Git | GitHub | Linux | VS Code
+
+ Currently Exploring
+-Data Structures & Algorithms | Data Engineering | AI/ML
 
 
- 🔧 Tech Stack & Tools  
-Languages: Python | JavaScript | SQL | HTML | CSS
-Frameworks: Django  | React | Node.js  
-Tools: Git | GitHub | Linux | VS Code | SQLite | MySQL  
-Current Focus: Data Structures, Algorithms, Data Engineering and AI/ML
-
-Certifications (Pending)
--Google Data Analytics from Google
+📜 Certifications (In Progress)
+- Google Data Analytics Certificate (Expected 2025)
 
 
- 📌 Goals  
-- 🎯 Land a Data or SWE internship in 2026 winter and summer 2026  
+
+📌 Goals
+
+- 🎯 Land a Software or Data Engineering internship (Winter or Summer 2026)  
 - 💡 Build useful tools and creative side projects  
-- 🧠 Master DSA, and Data pipelines 
-- ✍️ Share what I learn through code and terrible comments 
+- 🧠 Master DSA and Data Pipelines  
+- ✍️ Share what I learn through code (and a few terrible comments)
 
+ 💬 Let's Connect
 
-
- 💬 Let's Connect  
 Wanna collaborate or just say hi?  
-Open a PR, drop an issue, or message me anytime.
+Open an issue, drop a PR, or message me anytime!
+
