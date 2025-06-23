@@ -11,12 +11,14 @@ Frameworks: Django  | React | Node.js
 Tools: Git | GitHub | Linux | VS Code | SQLite | Splunk | MySQL  
 Current Focus: Data Structures, Algorithms, Data Engineering and AI/ML
 
+Certifications (Pending)
+-Google Data Analytics from Google
 
 
  📌 Goals  
-- 🎯 Land a cybersecurity or SWE internship in 2025 winter and summer 2025  
+- 🎯 Land a Data or SWE internship in 2026 winter and summer 2026  
 - 💡 Build useful tools and creative side projects  
-- 🧠 Master system design, DSA, and threat analysis  
+- 🧠 Master DSA, and Data pipelines 
 - ✍️ Share what I learn through code and terrible comments 
 
 
