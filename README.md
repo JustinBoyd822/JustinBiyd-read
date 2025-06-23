@@ -8,7 +8,7 @@ Hey, I'm Justin Boyd
  🔧 Tech Stack & Tools  
 Languages: Python | JavaScript | SQL | HTML | CSS
 Frameworks: Django  | React | Node.js  
-Tools: Git | GitHub | Linux | VS Code | SQLite | Splunk | MySQL  
+Tools: Git | GitHub | Linux | VS Code | SQLite | MySQL  
 Current Focus: Data Structures, Algorithms, Data Engineering and AI/ML
 
 Certifications (Pending)
