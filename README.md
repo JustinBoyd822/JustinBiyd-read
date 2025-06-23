@@ -1,7 +1,7 @@
 Hey, I'm Justin Boyd
 
-🎓 Junior CS Student @ Madonna University  
-🛡️ Aspiring Cybersecurity Engineer | Full-Stack Dev | Storyteller  
+🎓 Junior CS Student @ Madonna University 2027
+🛡️ Aspiring Anything but web development| Full-Stack Dev | Storyteller  
 🇺🇸 Detroit-based | Open to internships for 2025
 
 
