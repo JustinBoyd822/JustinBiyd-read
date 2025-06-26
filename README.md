@@ -19,9 +19,8 @@
 -Data Structures & Algorithms | Data Engineering | AI/ML
 
 
-📜 Certifications (In Progress)
-- Google Data Analytics Certificate (Expected 2025)
-
+📜 Certifications
+- Google Data Analytics Certificate
 
 
 📌 Goals
